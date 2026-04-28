@@ -1,7 +1,7 @@
 # Arya Pandey
 
 ### About Me:
-[LinkedIn] | [Email]
+https://www.linkedin.com/in/arya-pandey-b73ba82bb/ | aryapand3y@gmail.com
 
 I am an Engineering Undergraduate with a strong focus on Data Analysis, Visualization, and Problem Solving. I specialize in building structured, insight-driven dashboards and applying statistical thinking to real-world datasets.
 
@@ -28,7 +28,7 @@ Python, SQL, JavaScript
 Pandas, NumPy, Matplotlib, Plotly, Scikit-learn  
 
 **Visualization:**  
-Tableau, Power BI  
+Tableau
 
 **Other Tools:**  
 Git, GitHub, Jupyter Notebook  
